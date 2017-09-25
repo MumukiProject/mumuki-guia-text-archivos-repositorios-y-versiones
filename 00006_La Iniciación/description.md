@@ -1,0 +1,2 @@
+Antes de empezar a trabajar con Git debemos inicializar un repositorio: informarle a la herramienta que monitoree los cambios en el directorio en el que guardaremos nuestros archivos. El comando es muy simple: git init. 
+> En la terminal, git init

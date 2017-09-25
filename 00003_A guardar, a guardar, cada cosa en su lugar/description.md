@@ -1,0 +1,1 @@
+explicar que podemos modificar el archivo, pero que si nos interesa poder volver a una versión anterior estamos en un problema. Pedirles que guarden el código anterior en un nuevo archivo, renombrandolo

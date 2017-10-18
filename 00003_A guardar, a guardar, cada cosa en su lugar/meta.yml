@@ -8,8 +8,10 @@ language:
 teacher_info: 
 manual_evaluation: false
 choices:
-- value: "...antes de crear una nueva versión, hacer una copia del archivo, y luego
-    modificar esa copia."
+- value: "...hacer una copia del archivo, y luego modificar esa copia."
   checked: true
-- value: "...después de crear una nueva versión, hacer una copia del archivo"
+- value: "...modificar el archivo original, y luego hacer una copia."
+  checked: false
+- value: "...hacer una copia del archivo, luego modificar esa copia, y finalmente
+    eliminar el archivo original."
   checked: false

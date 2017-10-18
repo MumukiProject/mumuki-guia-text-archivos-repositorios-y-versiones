@@ -7,6 +7,7 @@
 <body>
   <header>
     <h1>...Tu nombre va acá...</h1>
+  </header>
   <main>
     <section>
       <h3>Habilidades</h3>

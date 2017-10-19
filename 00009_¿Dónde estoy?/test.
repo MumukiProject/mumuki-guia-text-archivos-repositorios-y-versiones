@@ -1,1 +1,3 @@
-TODO
+goal: 
+  kind: last_query_equals
+  value: pwd

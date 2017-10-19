@@ -1,14 +1,17 @@
 _Si queremos encontrar archivos, tenemos que pensar como archivos..._
 
-Recién vimos una posible forma de manejar versiones, que significa crear varias copias de `curriculum.html`. ¿Cómo podemos Una posible  es mediante un navegador de archivos. 
+Recién vimos cómo generar nuevas versiones, que consiste en crear y editar copias de `curriculum.html`. Pero, ¿cómo podríamos _listarlas_ más tarde? Una forma muy simple es entrando en nuestro _explorador de archivos_:
 
 <div 
   class="mu-filebrowser" 
-  data-file="[
-    { type: 'file',  name: 'curriculum-v1.html' },
-    { type: 'file',  name: 'curriculum-v2.html' },
-    { type: 'file',  name: 'curriculum-v3.html' },
-]">
+  data-file="{
+    'curriculum-v1.html': '',
+    'curriculum-v2.html': '',
+    'curriculum-v3.html': '',
+  }">
 </div>
 
-Contar como listar archivos dentro de un directorio en una terminal, que es el medio que los programadores vamos a usar para interactuar con archivos y programas
+Pero veamos otra forma: ¡usemos una _terminal_!
+
+> Escribí en la terminal `ls` y fijate qué pasa.  
+

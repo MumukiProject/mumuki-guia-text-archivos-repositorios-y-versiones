@@ -4,7 +4,7 @@ Por ejemplo `ls` nos permite ver los archivos que hay en la carpeta (también co
 
 Por ejemplo, si ingresamos `ls`...
 
-```shell
+```sh
 $ ls
 curriculum-v1.html
 curriculum-v2.html

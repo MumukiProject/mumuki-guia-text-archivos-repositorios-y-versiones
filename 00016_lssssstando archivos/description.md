@@ -18,4 +18,4 @@ $ ls -l curriculum-v1.html
 -rw-rw-r-- 1 mumuki mumuki 120 ene  1  2017 curriculum-v1.html
 ```
 
-> Descubrí qué pasa si introducís en la terminal `ls -l`.
+> Descubrí qué pasa si introducís en la terminal `ls -l`. 

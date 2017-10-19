@@ -1,4 +1,8 @@
-File System en Windows vs Linux vs Mac vs Android
+¡Bien hecho!
 
+Una _terminal_ es un programa bastante parecido a un explorador de archivos, que: 
 
-Contar como listar archivos dentro de un directorio en una terminal, que es el medio que los programadores vamos a usar para interactuar con archivos y programas
+* también nos permite hacer operaciones con archivos; 
+* pero con el que interactuamos escribiendo comandos, en lugar de componentes gráficos como botones e íconos.  
+
+¿Y que ganamos al usar una terminal? ¡Que es mucho más poderosa! Con ella vamos a poder hacer mucho más que con un explorador :rocket:. Y también nos va a permitir parecer un poco más hackers, claro :stuck_out_tongue:. 

@@ -4,8 +4,8 @@ Por ejemplo `ls` nos permite ver los archivos que hay en la carpeta (también co
 
 Por ejemplo, si ingresamos `ls`...
 
-```bash
-$ ls 
+```shell
+$ ls
 curriculum-v1.html
 curriculum-v2.html
 curriculum-v3.html
@@ -13,7 +13,7 @@ curriculum-v3.html
 
 ...estamos listando los archivos en el directorio actual. Y si queremos detalles de un archivo particular, podemos escribir `ls -l nombre_de_archivo`:
 
-```bash
+```sh
 $ ls -l curriculum-v1.html 
 -rw-rw-r-- 1 mumuki mumuki 120 ene  1  2017 curriculum-v1.html
 ```

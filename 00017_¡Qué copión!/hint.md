@@ -1,0 +1,1 @@
+Acordate de que por convención estamos llamando a nuestros documentos `curriculum-v<numero_de_version>.html`.

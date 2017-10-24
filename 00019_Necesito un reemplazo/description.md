@@ -3,5 +3,10 @@ Muchas veces además de copiar, mover e inspeccionar archivos, vamos a querer ed
 Uno de ellos es `sed`, que permite reemplazar, dentro de un archivo un texto por otro: 
 
 ```bash
-$ sed -i 's:few:asd:g' hello.txt
+$ cat ...
+
+$ sed -i 's:few:asd:g' 
+$ cat ...
+
+
 ```

@@ -1,1 +1,3 @@
-TODO
+goal: 
+  kind: query_passes
+  query: test -e curriculum-v5.html

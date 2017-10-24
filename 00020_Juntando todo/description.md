@@ -1,4 +1,5 @@
-¡Ahora te toca a vos! En el directorio `/home/mumuki/curriculum` tenemos todas las versiones de nuestro currículum. Cambiá a ese directorio y generá una nueva versión 
+¡Ahora te toca a vos! :grimacing:
 
+En el directorio `/home/mumuki/curriculums` tenemos todas las versiones de nuestro preciado documento. Después de mucho trabajo, ya casi está listo, pero queremos hacer un cambio de último momento: agregar "Manejo de Terminal" como nueva habilidad (después de todos estos ejercicios te lo ganaste :stuck_out_tongue_winking_eye:).
 
--> Andá a cierto directorio, descubrí que archivos hay y generá una nueva versión que cambie Js por zaraza
+> ¿Y el editor? Como no podía ser de otra manera, vamos a agregar esta habilidad utilizando sólamente comandos de terminal. ¡Éxitos!

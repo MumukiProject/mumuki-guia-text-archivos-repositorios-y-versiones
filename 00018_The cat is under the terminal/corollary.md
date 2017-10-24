@@ -9,3 +9,9 @@ $ head -n 3 curriculum-v1.html
 <html>
   <head>  
     <title>Mi Primer CV</title>
+$ tail -n 3 curriculum-v1.html
+    <title>Mi Primer CV</title>
+  </head>
+</html>
+```
+

@@ -12,12 +12,10 @@ drwxrwxr-x 2 mumuki mumuki 4096 oct 24 13:30 rivera
 ...podemos movernos a `borges` y luego listar sus archivos:
 
 ```bash
-$ cd borged
+$ cd borges
 $ ls
 el_libro_de_los_seres_imaginarios.txt  ficciones.txt
 ```
-
-de paso, mv
 
 > Veamos si se entiende: la terminal está en 
 > 

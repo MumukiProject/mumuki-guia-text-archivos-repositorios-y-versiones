@@ -1,1 +1,1 @@
-Acordate de que por convención estamos llamando a nuestros documentos `curriculum-v<numero_de_version>.html`.
+Recordá de que por convención estamos llamando a nuestros documentos `curriculum-v<numero_de_version>.html`. Por ejemplo `curriculm-v12.html` es mas nuevo que `curriculm-v11.html`.

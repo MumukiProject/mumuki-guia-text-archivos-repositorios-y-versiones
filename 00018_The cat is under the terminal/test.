@@ -1,1 +1,8 @@
-TODO
+goal: 
+  kind: last_query_outputs
+  query: 
+    |<html>
+    |  <head>  
+    |    <title>Mi Primer CV</title>
+    |  </head>
+    |</html>

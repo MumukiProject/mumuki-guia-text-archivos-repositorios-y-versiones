@@ -1,0 +1,9 @@
+mkdir curriculums
+touch zaraza.txt
+echo curriculums/curriculum-v1.html > <<EOF
+<html>
+  <head>  
+    <title>Mi Primer CV</title>
+  </head>
+</html>
+EOF

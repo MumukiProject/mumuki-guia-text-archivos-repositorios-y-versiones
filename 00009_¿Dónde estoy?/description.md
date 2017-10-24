@@ -4,6 +4,7 @@ Cuando abrimos una terminal ésta se abre, por defecto, en un cierto directorio,
 $ ls 
 viajeDeEgresados.jpg
 fiestaDeClara.png
+marDelPlataEnInvierno.png
 ...
 ```
 

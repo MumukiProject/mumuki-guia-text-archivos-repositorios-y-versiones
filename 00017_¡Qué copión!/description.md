@@ -1,4 +1,4 @@
-¿Y que más puede hacer una terminal por nosotros? ¡Copiar archivos! :sunglasses: Conozcamos al comando `cp`, que toma el nombre de un archivo a copiar, y el nombre de la copia, en ese orden:
+¿Y que más puede hacer una terminal por nosotros además de navegar directorios? ¡Copiar archivos! :sunglasses: Conozcamos al comando `cp`, que toma el nombre de un archivo a copiar, y el nombre de la copia, en ese orden:
 
 ```bash
 $ ls 

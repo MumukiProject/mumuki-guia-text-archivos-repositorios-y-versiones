@@ -17,6 +17,4 @@ $ ls
 el_libro_de_los_seres_imaginarios.txt  ficciones.txt
 ```
 
-> Veamos si se entiende: la terminal está en 
-> 
-> 
+> Veamos si se entiende: cambiá al directorio `dolina` y listá sus archivos.  

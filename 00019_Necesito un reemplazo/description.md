@@ -13,3 +13,8 @@ limpiar el taller
 hacer las compras
 hacer ejercicio 11
 ```
+
+Incluso podemos ser más inteligentes y pedirle que reemplace esa palabra toda las veces que aparezca (lo que se conoce como un _remplazo global_):
+
+
+

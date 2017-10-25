@@ -18,3 +18,4 @@ $ ls
 bachata chacarera rock 
 ```
 
+> Veamos si se entiende: en el directorio `rock` hay un archivo llamado `la_bida_es_una_moneda.flac`. Renombralo para corregir la falta de ortografía :stuck_out_tongue:. 

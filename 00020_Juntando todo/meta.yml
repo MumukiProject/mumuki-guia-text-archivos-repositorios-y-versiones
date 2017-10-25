@@ -2,9 +2,11 @@
 tags: []
 layout: input_bottom
 editor: code
-type: problem
+type: interactive
 extra_visible: false
-language: 
-teacher_info: 
+language: bash
 manual_evaluation: false
 choices: []
+goal:
+  kind: query_passes
+  query: grep "Manejo de Terminal" /home/mumuki/curriculums/curriculum-v7.html

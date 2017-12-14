@@ -8,5 +8,4 @@ language: bash
 manual_evaluation: false
 choices: []
 goal:
-  kind: last_query_equals
-  value: ls
+  kind: last_query_passes

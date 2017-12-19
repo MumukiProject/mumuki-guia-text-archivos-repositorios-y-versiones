@@ -1,6 +1,6 @@
 ¡Bien pensando! :tada: :tada:
 
-Una forma muy simple de manejar versiones es crear copias de los archivos antes de modificarlos. Por ejemplo, supongamos que vamos a crear nuestro primer currículum:
+Una forma muy simple de manejar versiones es crear copias de los archivos antes de modificarlos :bookmark_tabs:. Por ejemplo, supongamos que vamos a crear nuestro primer currículum:
 
 1. Primero, crearemos el archivo `curriculum.html`, que contendrá la primera versión del mismo.  
 2. Si algunas semanas más tarde queremos agregar la habilidad _JavaScript_, podríamos hacer primero una copia llamada `curriculum-v2.html`, y luego editarla. Este archivo contendrá nuestra segunda versión del currículum. 

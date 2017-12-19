@@ -8,4 +8,6 @@ manual_evaluation: false
 choices: []
 goal:
   kind: last_query_outputs
-  output: el_angel_gris.txt el_bar_del_infierno.txt
+  output: |-
+    el_angel_gris.txt
+    el_bar_del_infierno.txt

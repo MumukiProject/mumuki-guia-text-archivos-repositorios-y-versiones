@@ -11,6 +11,11 @@ Recién vimos cómo generar nuevas versiones creando y editando copias de `curri
   }">
 </div>
 
+<div class="mu-filebrowser" data-file="[
+  { type: 'folder',  name: 'foo', content: []},
+  { type: 'file',  name: 'bar.txt', content: 'la la land'},
+]"></div>
+
 y observar que hay tres versiones. Pero conozcamos una nueva forma: ¡usemos **una terminal**! :
 
 > La terminal es la consola que se encuentra a continuación, en la que podés escribir comandos. Ingresá `ls` y fijate qué pasa.  

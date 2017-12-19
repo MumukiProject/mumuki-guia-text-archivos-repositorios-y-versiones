@@ -4,6 +4,6 @@
 >
 > * programación con objetos
 > * Ruby
-> * HTML. 
+> * HTML
 > 
 > Nosotros ya te dejamos el molde, ¡a vos te toca terminarlo! :muscle: 

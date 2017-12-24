@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>...Tu nombre va acá...</h1>
+    <h1>Mi Currículum</h1>
   </header>
   <main>
     <section>

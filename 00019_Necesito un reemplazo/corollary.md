@@ -10,7 +10,7 @@ Era más fresca que el río,
 naranjo en flor. 
 
 # reemplacemos 'vlanda' por 'blanda'. Notá el /g al final...
-$ sed -i 's/vlanda/blanda/g' 
+$ sed -i 's:vlanda:blanda:g' 
 
 $ cat naranjo_en_flor.txt
 Era más blanda que el agua, 

@@ -1,0 +1,1 @@
+echo "limpiar el taller\nhacer las compras\nhacer ejercicio 11" > tareas.txt

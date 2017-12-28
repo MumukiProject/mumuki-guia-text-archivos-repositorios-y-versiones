@@ -18,3 +18,8 @@ que el agua blanda.
 Era más fresca que el río, 
 naranjo en flor. 
 ```
+
+Ah, ¿y por qué `-i`? ¿Y por qué la `s`? ¿Y los `:`? ¿Significa algo todo eso? 
+
+Sí, ¡por supuesto! `sed` permite hacer una infinidad de cosas más. En el [apéndice](../chapters/103-control-de-versiones/appendix) te contamos algunas. 
+

@@ -1,6 +1,6 @@
 mkdir curriculums
 cd curriculums
-cat <<HTML > curriculum-v1.txt
+cat <<HTML > curriculum-v1.html
 <html>
 <head>
   <title>Mi Currículum</title>
@@ -25,7 +25,7 @@ cat <<HTML > curriculum-v1.txt
 </body>
 </html>
 HTML
-sed 's:</ul>:<li>Gobstones</li></ul>' curriculum-v1.txt > curriculum-v2.txt
-sed 's:</ul>:<li>SQL</li></ul>' curriculum-v2.txt > curriculum-v3.txt
-sed 's:</ul>:<li>Bases de datos</li></ul>' curriculum-v3.txt > curriculum-v4.txt
+sed 's:</ul>:<li>Gobstones</li></ul>' curriculum-v1.html > curriculum-v2.html
+sed 's:</ul>:<li>SQL</li></ul>' curriculum-v2.html > curriculum-v3.html
+sed 's:</ul>:<li>Bases de datos</li></ul>' curriculum-v3.html > curriculum-v4.html
 cd

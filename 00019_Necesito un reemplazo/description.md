@@ -16,7 +16,7 @@ hacer las compras
 hacer ejercicio 10
 
 # reemplacemos 'hacer ejercicio 10' por 'hacer ejercicio 11'...
-$ sed -i 's:hacer ejercicio 10:hacer ejercicio 11:' 
+$ sed -i 's:hacer ejercicio 10:hacer ejercicio 11:' tareas.txt
 
 # veamos cómo quedó....
 $ cat tareas.txt

@@ -1,1 +1,3 @@
-echo "limpiar el taller\nhacer las compras\nhacer ejercicio 11" > tareas.txt
+echo limpiar el taller > tareas.txt
+echo hacer las compras >> tareas.txt
+echo hacer ejercicio 11 >> tareas.txt

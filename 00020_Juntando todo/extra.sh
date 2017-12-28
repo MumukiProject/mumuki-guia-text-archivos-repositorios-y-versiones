@@ -25,7 +25,7 @@ cat <<HTML > curriculum-v1.txt
 </body>
 </html>
 HTML
-sed 's:</ul>:<li>Gobstones</li></ul>' curriculum-v1.txt > curriculum-v1.txt
+sed 's:</ul>:<li>Gobstones</li></ul>' curriculum-v1.txt > curriculum-v2.txt
 sed 's:</ul>:<li>SQL</li></ul>' curriculum-v2.txt > curriculum-v3.txt
 sed 's:</ul>:<li>Bases de datos</li></ul>' curriculum-v3.txt > curriculum-v4.txt
 cd

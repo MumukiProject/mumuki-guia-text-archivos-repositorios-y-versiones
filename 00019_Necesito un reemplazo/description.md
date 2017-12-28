@@ -3,18 +3,25 @@ Muchas veces además de copiar, mover e inspeccionar archivos, vamos a querer ed
 Uno de ellos es `sed`, que permite reemplazar, dentro de un archivo un texto por otro: 
 
 ```bash
+# inspeccionemos archivo original... 
 $ cat tareas.txt
 limpiar el taller
 hacer las compras
 hacer ejercicio 10
-$ sed -i 's:hacer ejercicio 10:hacer ejercicio 11' 
+
+# reemplacemos 'hacer ejercicio 10' por 'hacer ejercicio 11'...
+$ sed -i 's/hacer ejercicio 10/hacer ejercicio 11' 
+
+# veamos cómo quedó....
 $ cat tareas.txt
 limpiar el taller
 hacer las compras
 hacer ejercicio 11
 ```
 
-Incluso podemos ser más inteligentes y pedirle que reemplace esa palabra toda las veces que aparezca (lo que se conoce como un _remplazo global_):
+> ¿Fácil, no? Veamos si se entendió: reemplazá en `tareas.txt` _hacer ejercicio 11_ por _terminar lección_.
+
+
 
 
 

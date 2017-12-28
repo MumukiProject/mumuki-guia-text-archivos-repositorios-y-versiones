@@ -25,7 +25,7 @@ cat <<HTML > curriculum-v1.html
 </body>
 </html>
 HTML
-sed 's:</ul>:<li>Gobstones</li></ul>' curriculum-v1.html > curriculum-v2.html
-sed 's:</ul>:<li>SQL</li></ul>' curriculum-v2.html > curriculum-v3.html
-sed 's:</ul>:<li>Bases de datos</li></ul>' curriculum-v3.html > curriculum-v4.html
+sed 's:</ul>:<li>Gobstones</li></ul>:' curriculum-v1.html > curriculum-v2.html
+sed 's:</ul>:<li>SQL</li></ul>:' curriculum-v2.html > curriculum-v3.html
+sed 's:</ul>:<li>Bases de datos</li></ul>:' curriculum-v3.html > curriculum-v4.html
 cd

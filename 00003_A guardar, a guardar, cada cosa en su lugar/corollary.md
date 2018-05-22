@@ -1,4 +1,4 @@
-¡Bien pensando! :tada: :tada:
+¡Bien pensado! :tada: :tada:
 
 Una forma muy simple de manejar versiones es crear copias de los archivos antes de modificarlos :bookmark_tabs:. Por ejemplo, supongamos que vamos a crear nuestro primer currículum:
 

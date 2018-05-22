@@ -12,8 +12,8 @@ marDelPlataEnInvierno.png
 
 ```bash
 $ ls 
-beethovenSinfona5.mp3
-beethovenSinfona7.ogg
+beethovenSinfonia5.mp3
+beethovenSinfonia7.ogg
 ...
 ```
 

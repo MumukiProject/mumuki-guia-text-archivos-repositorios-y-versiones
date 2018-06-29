@@ -2,13 +2,13 @@
 
 ```bash
 $ ls 
-gastos
-cuentas
-$ cp cuentas copia_cuentas
+gastos.txt
+cuentas.txt
+$ cp cuentas.txt copia_cuentas.txt
 $ ls
-gastos
-cuentas
-copia_cuentas
+gastos.txt
+cuentas.txt
+copia_cuentas.txt
 ```
 
 > Veamos si se entiende: en el directorio actual tenemos varias versiones de nuestro currículum. Listá los archivos y hacé una copia de la versión mas nueva. 

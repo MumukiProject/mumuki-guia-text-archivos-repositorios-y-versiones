@@ -3,7 +3,7 @@ Muchas veces además de copiar, mover e inspeccionar archivos, vamos a querer ed
 Uno de ellos es `sed -i`, que permite reemplazar, dentro de un archivo un texto por otro:
 
 ```bash
-$ sed -i 's:texto original:texto nuevo:'
+$ sed -i 's:texto original:texto nuevo:' tareas.txt
 ```
 
 Por ejemplo:

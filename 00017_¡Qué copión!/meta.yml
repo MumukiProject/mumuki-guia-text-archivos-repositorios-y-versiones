@@ -9,3 +9,4 @@ choices: []
 goal:
   kind: query_passes
   query: test -e curriculum-v5.html
+name: "¡Qué copión!"

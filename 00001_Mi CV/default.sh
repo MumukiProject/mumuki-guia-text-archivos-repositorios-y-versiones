@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>/*...user_first_name...*/</h1>
+    <h1>Mi CV</h1>
   </header>
   <main>
     <section>

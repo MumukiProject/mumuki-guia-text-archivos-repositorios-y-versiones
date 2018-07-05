@@ -1,8 +1,0 @@
----
-expectations:
-- binding: body/header
-  inspection: DeclaresTag:h1
-- binding: body/main/section/ul
-  inspection: DeclaresTag:li
-- binding: body/main/section
-  inspection: DeclaresTag:h3

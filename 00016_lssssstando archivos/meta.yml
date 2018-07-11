@@ -10,4 +10,3 @@ choices: []
 goal:
   kind: last_query_equals
   value: ls -l
-name: lssssstando archivos

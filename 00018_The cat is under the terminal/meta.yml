@@ -9,3 +9,4 @@ choices: []
 goal:
   kind: last_query_outputs
   output: "<html>\n  <head>  \n    <title>Mi Primer CV</title>\n  </head>\n</html>"
+name: The cat is under the terminal
